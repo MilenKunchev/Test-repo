@@ -1,4 +1,4 @@
-<h2>Problem 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Character Stats</h2>
+<h2>Problem 5.* Character Stats</h2>
 <p>Write a program, which <strong>displays information</strong> about a video game character. You will receive their <strong>name</strong>, <strong>current health</strong>, <strong>maximum health</strong>, <strong>current energy</strong> and <strong>maximum energy </strong>on separate lines. The <strong>current</strong> values will <strong>always</strong> be valid (<strong>equal or lower</strong> than their respective <strong>max</strong> values). Print them in the format as per the examples.</p>
 <h3>Examples</h3>
 <table width="694">
