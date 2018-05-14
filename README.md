@@ -2,11 +2,11 @@
  </a>
 
 | [dillinger.io] | Online Markdown Editor.|
-* [html-cleaner.com] - Word To HTML Converter.
-* [docs.emmet.io] - Emmet Documentation.
-* [book.goalkicker.com] - Programming books
-* [pluralsight.com] - Technology learning platform
-* [Become a Programmer, Motherfucker] Books
+| [html-cleaner.com] | Word To HTML Converter.|
+| [docs.emmet.io] | Emmet Documentation.|
+| [book.goalkicker.com] | Programming books|
+| [pluralsight.com] | Technology learning platform|
+| [Become a Programmer, Motherfucker]|Books|
 
 [dillinger.io]: <https://dillinger.io/>
 [html-cleaner.com]: <https://html-cleaner.com/>
