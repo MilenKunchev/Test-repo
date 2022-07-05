@@ -2,12 +2,12 @@
  </a>
  
 
-* [Word to Markdown] - Word doc to Markdown.
 * [book.goalkicker.com] - Programming books.
 * [pluralsight.com] - Technology learning platform.
 * [Become a Programmer, Motherfucker] - Books.
 * [html-cleaner.com] - Word To HTML Converter.
 * [dillinger.io] - Online Markdown Editor.
+* [Word to Markdown] - Word doc to Markdown.
 
 
 [dillinger.io]: <https://dillinger.io/>
