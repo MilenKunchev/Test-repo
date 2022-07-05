@@ -1,12 +1,13 @@
 # <a href="https://github.com/MilenKunchev/Test-repo" rel="Useful sites"><p align="center">Useful sites<p>
  </a>
  
-* [dillinger.io] - Online Markdown Editor.
+
+* [Word to Markdown] - Word doc to Markdown.
 * [book.goalkicker.com] - Programming books.
 * [pluralsight.com] - Technology learning platform.
 * [Become a Programmer, Motherfucker] - Books.
 * [html-cleaner.com] - Word To HTML Converter.
-* [Word to Markdown] - Word doc to Markdown.
+* [dillinger.io] - Online Markdown Editor.
 
 
 [dillinger.io]: <https://dillinger.io/>
