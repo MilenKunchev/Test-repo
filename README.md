@@ -1,4 +1,4 @@
-# <a href="https://github.com/MilenKunchev/Test-repo" rel="Useful sites"><p align="center">Useful sites<p>
+# <a href="https://github.com/MilenKunchev/Test-repo" rel="Useful Links"><p align="center">Useful Links<p>
  </a>
  
 
